@@ -1,0 +1,36 @@
+.BMI{
+    background-color: rgb(164, 209, 146);
+    margin-left: -10px;
+    margin-right: -5px;
+}
+
+.bmi-tekst{
+    margin-left: 118px;
+    font-family: 'Lucida Sans';
+}
+
+.weegschaal{
+    width: 500px;
+    height: 300px;
+    margin-left: 125px;
+}
+
+.BMR{
+    background-color: rgb(164, 209, 146);
+    margin-left: -125px;
+    margin-right: -8px;
+}
+
+.bmr-tekst{
+    margin-left: 118px;
+    font-family: 'Lucida Sans';
+}
+
+.fruit{
+    width: 400px;
+    height: 200px;
+}
+
+.footer{
+    text-align: center;
+}
